@@ -1,0 +1,68 @@
+{
+  "level": 1,
+  "levelName": "TestLevel",
+  "dialogues": [
+    {
+      "language": "it",
+      "characters": [
+        {
+          "name": "Fra",
+          "dialogueTexts": [
+            {
+              "type": "yell",
+              "text": "Sì diocane!"
+            },
+            {
+              "type": "yell",
+              "text": "Ho fatto funzionare i dialoghi!"
+            }
+          ]
+        },
+        {
+          "name": "Gabri",
+          "dialogueTexts": [
+            {
+              "type": "normal",
+              "text": "Che hai fatto? lol"
+            },
+            {
+              "type": "yell",
+              "text": "GG!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "characters": [
+        {
+          "name": "Fra",
+          "dialogueTexts": [
+            {
+              "type": "yell",
+              "text": "Goddamn Yeah!"
+            },
+            {
+              "type": "yell",
+              "text": "Dialogues work properly now!"
+            }
+          ]
+        },
+        {
+          "name": "Gabri",
+          "dialogueTexts": [
+            {
+              "type": "normal",
+              "text": "What's happened? lol"
+            },
+            {
+              "type": "yell",
+              "text": "GG!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
